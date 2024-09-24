@@ -20,7 +20,7 @@
 }
 
 .nav-left li, .nav-right li {
-  margin-right: 20px; /* Space between items */
+  margin-right:0px; /* Space between items */
 }
 
 .nav-right li {
@@ -30,7 +30,7 @@
 .navbar a {
   background-color: rgba(255, 255, 255, 0); /* White background for active link */
   border-radius: 20px;
-  padding: 8px 10px;
+  padding: 8px 4px;
   color: rgb(0, 0, 0); /* White text */
   text-decoration: none; /* Remove underline */
 }

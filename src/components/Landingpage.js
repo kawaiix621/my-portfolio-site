@@ -5,7 +5,7 @@ const Landingpage = () => {
   return (
   <div>
      <h1
-     style={{fontSize:'90px'}}
+     style={{fontSize:'60px'}}
      >Tobiloba Awolaju </h1>
 
 
@@ -20,7 +20,7 @@ style={{
 
 </div>
 
-<h1>Summary (zero -- Blockchain x Security)</h1>
+<h1>About</h1>
 <p>
   I'm a Artist with strong background in  Javascript , I started making 
   bubble.io plugins and other web related from Comupter Science assignment implementation using ML5.js and P5.js  for my friends just for 
