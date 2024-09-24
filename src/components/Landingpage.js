@@ -12,7 +12,7 @@ const Landingpage = () => {
 
 <div
 style={{
-  height:'30vh',
+  height:'25vh',
   fontSize: '100px',
   textAlign:'center'
 }}>
