@@ -31,20 +31,20 @@ const Resume = () => {
 
       <section className="work-experience">
         <h2>Work Experience</h2>
-        <p><strong>Smart Contract Developer | LINK</strong></p>
+        <p><strong>Smart Contract Developer<strong> <a style={{textDecoration:'none'}} href="https://github.com/kawaiix621" target="_blank" rel="noopener noreferrer" > | LINK </a></strong></strong></p>
         <p>Implemented automated security auditing tools using Echidna and Slither for Solidity contracts.</p>
         <p>Contributed to the framework's cryptography module, focusing on secure hardware-level encryption using Rust.</p>
       </section>
 
       <section className="projects">
         <h2>Projects</h2>
-        <p><strong>Full-Stack Blockchain Banking App | LINK</strong></p>
+        <p><strong>Full-Stack Blockchain Banking App <strong> <a style={{textDecoration:'none'}} href="https://github.com/kawaiix621" target="_blank" rel="noopener noreferrer" > | LINK </a></strong></strong></p>
         <p>Built a banking app that integrates with multiple Web3 wallets (Metamask, Coinbase, Phantom) using Rust and Solidity. Designed and implemented smart contracts on Solana to support asset transfers between wallets.</p>
 
-        <p><strong>Quantum Cryptography Assistant | LINK</strong></p>
+        <p><strong>Quantum Cryptography Assistant <strong> <a style={{textDecoration:'none'}} href="https://github.com/kawaiix621" target="_blank" rel="noopener noreferrer" > | LINK </a></strong></strong></p>
         <p>Worked on a quantum cryptography AI assistant project, integrating blockchain-based encryption solutions. Developed Rust modules for implementing quantum-resistant cryptographic algorithms.</p>
 
-        <p><strong>Blockchain Auditing and Security Framework | LINK</strong></p>
+        <p><strong>Blockchain Auditing and Security Framework <strong> <a style={{textDecoration:'none'}} href="https://github.com/kawaiix621" target="_blank" rel="noopener noreferrer" > | LINK </a></strong></strong></p>
         <p>Built a framework for auditing smart contracts and decentralized applications, using Solidity for Ethereum contracts and Rust for Solana. Integrated with WebAssembly for cross-platform support and to optimize smart contract performance.</p>
       </section>
 

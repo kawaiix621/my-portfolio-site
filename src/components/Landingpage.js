@@ -16,7 +16,7 @@ style={{
   fontSize: '100px',
   textAlign:'center'
 }}>
-🐼
+😝
 </div>
 
 <h1>About</h1>
