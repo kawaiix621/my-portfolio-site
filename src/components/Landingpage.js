@@ -13,11 +13,10 @@ const Landingpage = () => {
 <div
 style={{
   height:'30vh',
-  fontSize: '150px',
+  fontSize: '100px',
   textAlign:'center'
 }}>
-  👀
-
+🐼
 </div>
 
 <h1>About</h1>
