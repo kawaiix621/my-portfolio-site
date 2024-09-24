@@ -16,24 +16,19 @@ style={{
   fontSize: '150px',
   textAlign:'center'
 }}>
-  😶‍🌫️
+  👀
 
 </div>
 
 <h1>About</h1>
 <p>
-  I'm a Artist with strong background in  Javascript , I started making 
-  bubble.io plugins and other web related from Comupter Science assignment implementation using ML5.js and P5.js  for my friends just for 
-  fun during Covid, nevered had a specific niech, always bouncing from 
-  frontend to backend to ai and life happend, And I decided to specilize in blockchain development,
-  Now I write Rust and Solidity like love letter will majoring in Electrical electronics.
+  I'm a Blockchain Developer specializing in Rust and Solidity, with a strong foundation in building decentralized applications. My journey began during the pandemic, experimenting with web and AI technologies like ML5.js and P5.js, but I found my passion in blockchain.
+</p>
+<br></br>
+<p>
+  While majoring in Electrical and Electronics Engineering, I’ve honed my skills in writing smart contracts and building secure, scalable DLT solutions. I'm also an engineering enthusiast who loves exploring hardware, software, and how things work—before putting them back together even better.
 </p>
 
-<p>
-I am an engineering nerd, I am Obssed with Building things that
-  hardare , software and also breaking things apart to see how it  works before
-  putting back together.
-</p>
 
 
 
